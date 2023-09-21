@@ -28,7 +28,7 @@ But it is still a very beautiful and peaceful country. People of Bangladesh are 
   </div> 
   <div className="drawer-side font-bold">
     <label htmlFor="my-drawer-2" className="drawer-overlay"></label> 
-    <ul className="menu p-4 w-80 min-h-full bg-[#9398BF] text-base-content ">
+    <ul className="menu p-4 w-80 min-h-full bg-[#9398BF] text-white ">
       {/* Sidebar content here */}
       <li className="text-xl">Sidebar</li>
       <li tabIndex={0}>
